@@ -167,7 +167,8 @@ function Home() {
 
 <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative mb-3" role="alert">
   <strong class="font-bold">Hi there! </strong>
-  <span class="block sm:inline">Im currently reconstructing my portfolio and cleaning and pampering codes on my projects. At the mean time you can contact me below via facebook, you can also check my github account. thank you! </span>
+  <span class="block sm:inline">Hello there! I'm currently revamping my portfolio and enhancing the code in my projects.
+   In the meantime, feel free to get in touch with me through Facebook. You can also check out my GitHub account for more of my work. Thank you! </span>
 </div>
                                     </div>
 
