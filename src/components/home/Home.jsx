@@ -166,8 +166,8 @@ function Home() {
                                         </p>
 
 <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative mb-3" role="alert">
-  <strong class="font-bold">Hi there! </strong>
-  <span class="block sm:inline">Hello there! I'm currently revamping my portfolio and enhancing the code in my projects.
+  <strong class="font-bold">Hello there! </strong>
+  <span class="block sm:inline">I'm currently revamping my portfolio and enhancing the code in my projects.
    In the meantime, feel free to get in touch with me through Facebook. You can also check out my GitHub account for more of my work. Thank you! </span>
 </div>
                                     </div>
